@@ -1,0 +1,3 @@
+iPhone 15 = 5000
+
+Samsung s24 ultra = 100000
